@@ -3,6 +3,17 @@ body {
     background-image: url("pendejada.jpg");
     background-size: cover;
     text-align: left;
+  
     font-family: sans-serif;
-    color: rgb(255, 255, 255);
+  font-size: 16px;
+    color: rgb(0, 0, 0);
+}
+
+.mrd{
+    text-align: left;
+    font-family: sans-serif;
+    font-style: italic;
+    color:rgb(7, 7, 7)
+
+
 }
